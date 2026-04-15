@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# Code reviews
+code_review_*.html
